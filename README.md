@@ -50,5 +50,3 @@ and pass the five item amounts as arguments.
 The functions return the calculated amounts without using
 input statements or print statements.
 
-## Author
-Shravani Sirsat
